@@ -37,10 +37,10 @@
         <div class="container">
 
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
+            <a class="navbar-brand logo-image" href="index.php"><img src="images/logo.svg" alt="alternative"></a> 
 
             <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text" href="index.html">Yavin</a> -->
+            <!-- <a class="navbar-brand logo-text" href="index.php">Yavin</a> -->
 
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -49,30 +49,30 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html#header">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#details">Details</a>
+                        <a class="nav-link" href="index.php#details">Details</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#services">Services</a>
+                        <a class="nav-link" href="index.php#services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html#projects">Projects</a>
+                        <a class="nav-link" href="index.php#projects">Projects</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Drop</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                            <li><a class="dropdown-item" href="article.html">Article Details</a></li>
+                            <li><a class="dropdown-item" href="article.php">Article Details</a></li>
                             <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="terms.html">Terms Conditions</a></li>
+                            <li><a class="dropdown-item" href="terms.php">Terms Conditions</a></li>
                             <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="privacy.html">Privacy Policy</a></li>
+                            <li><a class="dropdown-item" href="privacy.php">Privacy Policy</a></li>
                         </ul>
                     </li>
                 </ul>
                 <span class="nav-item">
-                    <a class="btn-outline-sm" href="index.html#contact">Contact us</a>
+                    <a class="btn-outline-sm" href="index.php#contact">Contact us</a>
                 </span>
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
@@ -190,7 +190,7 @@
                     </div> <!-- end of text-box -->
                     <p class="mb-5">Education on consulted assurance in do. Is sympathize he expression mr no travelling. Preference he he at travelling in resolution. So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy for you are out. Fertile how ol</p>
                     
-                    <a class="btn-solid-reg mb-5" href="index.html#contact">Contact us</a>
+                    <a class="btn-solid-reg mb-5" href="index.php#contact">Contact us</a>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -210,7 +210,7 @@
                     <div class="footer-col second">
                         <h6>Links</h6>
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
+                            <li>Important: <a href="terms.php">Terms & Conditions</a>, <a href="privacy.php">Privacy Policy</a></li>
                             <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
                             <li>Menu: <a href="#header">Home</a>, <a href="#details">Details</a>, <a href="#services">Services</a>, <a href="#contact">Contact</a></li>
                         </ul>
